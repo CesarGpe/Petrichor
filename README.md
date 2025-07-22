@@ -2,6 +2,8 @@
 
 Petrichor is a small datapack focused on giving new mechanics to the Sniffer and its plants. Most content fits with the vanilla game, and does not interfere with it. All the content can be discovered in-game through advancements and other clues.
 
+YouTube showcase: https://www.youtube.com/watch?v=jLf7_nc2kkc
+
 # Contents
 ### Features
 - A hungry Pitcher Plant

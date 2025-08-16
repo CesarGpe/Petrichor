@@ -14,7 +14,7 @@ YouTube showcase: https://youtu.be/piDY2Z5ib0E
 - Emissive Torchflowers
 - New Pitcher Plant texture
 
-# Frecuent Issues
+# Frequent Issues
 ### Missing item textures
 Make sure you download and enable the required resource pack to play with this data pack, you can find it by clicking in the version you want to download and scrolling down a bit. This isn't needed if you are using the mod version, as the resource pack is bundled with it.
 ### Creative mode
